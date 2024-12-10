@@ -12,7 +12,7 @@ To counter this, a new item is introduced: the **Flash Charge**. These one-time-
 
 As the game progresses, the player discovers a **lantern**, which offers omnidirectional light to deter enemies from all sides. However, its beam is smaller, allowing Umbras to approach more closely. The lantern also supports flash charges however with a shorter range than the flashlight.
 
-Lux, a new type of enemy, is introduced to vary gameplay. Unlike Umbras, Luxes are attracted to light and due to their very poor eyesight, they cannot see anything in the dark. Players can evade them by turning off their light and use a flash charge to eliminate them. The environment introduces unique mechanics to aid the player, for instance, lightning strikes can eliminate nearby enemies if used strategically. Similarly, falling logs serve as environmental traps. Players can lure Luxes into falling off ledges or use logs to save precious flash charges. And that is the gist of Oblivion.
+**Lux**, a new type of enemy, is introduced to vary gameplay. Unlike Umbras, Luxes are attracted to light and due to their very poor eyesight, they cannot see anything in the dark. Players can evade them by turning off their light and use a flash charge to eliminate them. The environment introduces unique mechanics to aid the player, for instance, lightning strikes can eliminate nearby enemies if used strategically. Similarly, falling logs serve as environmental traps. Players can lure Luxes into falling off ledges or use logs to save precious flash charges. And that is the gist of Oblivion.
 
 ## Instructions
 You will need a Windows computer to play this game.
